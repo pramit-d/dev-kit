@@ -219,7 +219,7 @@ generate_version_data(pid, name, version_tag, org)
 
 
 '''
-    1. Update besecure-assets-store in the code.
-    2. Update input data.
+    1. Update besecure-assets-store path in the code.
+    2. Update input data.Check bes_technology_stack and tags from https://github.com/Be-Secure/BeSLighthouse/blob/main/references.md
     3. Run metadata.py using 'python3 metadata.py'
 '''
